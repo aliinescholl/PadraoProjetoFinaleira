@@ -1,0 +1,14 @@
+C:\www\PadraoProjetoFinaleira\HospitalApp\bin\Debug\net10.0\HospitalApp.exe
+C:\www\PadraoProjetoFinaleira\HospitalApp\bin\Debug\net10.0\HospitalApp.deps.json
+C:\www\PadraoProjetoFinaleira\HospitalApp\bin\Debug\net10.0\HospitalApp.runtimeconfig.json
+C:\www\PadraoProjetoFinaleira\HospitalApp\bin\Debug\net10.0\HospitalApp.dll
+C:\www\PadraoProjetoFinaleira\HospitalApp\bin\Debug\net10.0\HospitalApp.pdb
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.AssemblyInfoInputs.cache
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.AssemblyInfo.cs
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.csproj.CoreCompileInputs.cache
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.dll
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\refint\HospitalApp.dll
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.pdb
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\HospitalApp.genruntimeconfig.cache
+C:\www\PadraoProjetoFinaleira\HospitalApp\obj\Debug\net10.0\ref\HospitalApp.dll
