@@ -1,5 +1,7 @@
 # 🏥 HospitalApp
-
+Alunas <br>
+ALINE SCHOLL SANTOS - 202410008775 <br>
+ANA CLARA MAIBERG - 202410004629
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
