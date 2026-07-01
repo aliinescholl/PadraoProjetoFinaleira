@@ -2,7 +2,7 @@
 Alunas <br>
 ALINE SCHOLL SANTOS - 202410008775 <br>
 ANA CLARA MAIBERG - 202410004629
-
+Link vídeo: https://drive.google.com/file/d/12FEwMw6Nqr2kH2AWzWBOPUD5BWKe397y/view?usp=sharing
 ## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
