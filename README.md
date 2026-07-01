@@ -1,20 +1,8 @@
 # 🏥 HospitalApp
-
-<div align="center">
-
-![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-12.0-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-
-**Sistema hospitalar em memória desenvolvido em C# (.NET 10) como Console Application.**  
-Demonstra a aplicação de quatro Design Patterns clássicos do catálogo Gang of Four (GoF)  
-com boas práticas de programação orientada a objetos e princípios SOLID.
-
-</div>
-
----
-
+Alunas <br>
+ALINE SCHOLL SANTOS - 202410008775 <br>
+ANA CLARA MAIBERG - 202410004629
+Link vídeo: https://drive.google.com/file/d/12FEwMw6Nqr2kH2AWzWBOPUD5BWKe397y/view?usp=sharing
 ## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
